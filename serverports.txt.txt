@@ -6,7 +6,8 @@
 	it ranges from 0-65535
 
 3) How many bits does number above represent? 
-	16 Bits
+	2 ^ 5 = 16 Bits
+	
 
 4) State 10 common server ports:
 	POP3 -110
