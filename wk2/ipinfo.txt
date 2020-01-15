@@ -1,0 +1,33 @@
+1)
+DNS Lookup
+
+IP Address: 52.178.214.89
+
+Geolocation: IE (Ireland), 07, Dublin, D02 Dublin - Google Maps
+
+2)
+IP Address: 52.209.190.20
+
+Geolocation: IE (Ireland), 07, Dublin, D02 Dublin - Google Maps
+
+Reverse DNS: ec2-52-209-190-20.eu-west-1.compute.amazonaws.com
+
+3)
+IP Address: 151.101.1.67
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+4)
+IP Address: 64.91.226.82
+
+Geolocation: US (United States), MI, Michigan, 48917 Lansing - Google Maps
+
+Reverse DNS: mint.whois.com
+
+5)
+
+IP Address: 72.52.10.14
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+Reverse DNS: a72-52-10-14.deploy.static.akamaitechnologies.com

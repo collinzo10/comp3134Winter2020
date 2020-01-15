@@ -1,0 +1,49 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap 151.101.129.67
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:29 UTC
+Nmap scan report for 151.101.129.67
+Host is up (0.00059s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.32 seconds
+
+
+2)
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 1000 151.101.129.67
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:30 UTC
+Nmap scan report for 151.101.129.67
+Host is up (0.0013s latency).
+
+PORT     STATE    SERVICE
+1000/tcp filtered cadlock
+
+Nmap done: 1 IP address (1 host up) scanned in 0.52 seconds
+
+
+3)
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 1000-1500 151.101.129.67
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:32 UTC
+Nmap scan report for 151.101.129.67
+Host is up (0.0012s latency).
+All 501 scanned ports on 151.101.129.67 are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 11.54 seconds
+
+4)
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F 52.178.214.89
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:34 UTC
+Nmap scan report for 52.178.214.89
+Host is up (0.096s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.57 seconds
+

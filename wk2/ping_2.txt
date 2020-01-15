@@ -1,0 +1,12 @@
+C:\Users\101175934>ping 72.52.10.14
+
+Pinging 72.52.10.14 with 32 bytes of data:
+Reply from 72.52.10.14: bytes=32 time=20ms TTL=243
+Reply from 72.52.10.14: bytes=32 time=20ms TTL=243
+Reply from 72.52.10.14: bytes=32 time=20ms TTL=243
+Reply from 72.52.10.14: bytes=32 time=20ms TTL=243
+
+Ping statistics for 72.52.10.14:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 20ms, Maximum = 20ms, Average = 20ms
