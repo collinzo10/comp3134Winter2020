@@ -1,0 +1,13 @@
+	OBSERVATIONS
+1)after typing an english word: it shows the meaning of the word 
+and the URL changes to "https://www.dictionary.com/browse/school?s=t"
+
+2) after typing the non-englisg word, i get an erro saying "No Results found 'hinfef'" 
+and the url changes to "https://www.dictionary.com/misspelling?term=hinfef"
+
+3)URL output: https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=t
+Page results: shows output for Memes, trends and stories,nature, grammar for hello
+
+4) URL output: https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E&s=t
+Page results: shows output for Memes, trends and stories,nature, grammar for hello
+ 

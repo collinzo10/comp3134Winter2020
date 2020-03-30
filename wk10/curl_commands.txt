@@ -1,0 +1,8 @@
+		curl commands
+1)curl https://www.dictionary.com/browse/curl
+
+2)curl https://www.dictionary.com/browse/curlxyz
+
+3)http://165.22.232.182/sending_info_to_app_1.php/helloworld
+
+4)
