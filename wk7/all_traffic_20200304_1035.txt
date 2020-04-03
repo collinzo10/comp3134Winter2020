@@ -1,0 +1,48 @@
+15:34:47.807178 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 144333, win 8190, length 0
+15:34:47.854003 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 144473, win 8189, length 0
+15:34:47.900697 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 144613, win 8189, length 0
+15:34:47.947778 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 144753, win 8188, length 0
+15:34:47.994724 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 144893, win 8193, length 0
+15:34:48.041541 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145033, win 8193, length 0
+15:34:48.088464 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145173, win 8192, length 0
+15:34:48.135217 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145313, win 8192, length 0
+15:34:48.182104 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145453, win 8191, length 0
+15:34:48.228963 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145593, win 8191, length 0
+15:34:48.275914 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145733, win 8190, length 0
+15:34:48.322783 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 145873, win 8189, length 0
+15:34:48.369762 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146013, win 8189, length 0
+15:34:48.416633 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146153, win 8188, length 0
+15:34:48.463250 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146293, win 8193, length 0
+15:34:48.510332 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146433, win 8193, length 0
+15:34:48.556988 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146573, win 8192, length 0
+15:34:48.604099 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146713, win 8192, length 0
+15:34:48.651088 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146853, win 8191, length 0
+15:34:48.697856 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 146993, win 8191, length 0
+15:34:48.744846 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147133, win 8190, length 0
+15:34:48.791526 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147273, win 8189, length 0
+15:34:48.838565 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147413, win 8189, length 0
+15:34:48.885413 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147553, win 8188, length 0
+15:34:48.932267 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147693, win 8193, length 0
+15:34:48.978837 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147833, win 8193, length 0
+15:34:49.025942 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 147973, win 8192, length 0
+15:34:49.072778 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148113, win 8192, length 0
+15:34:49.119726 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148253, win 8191, length 0
+15:34:49.166626 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148393, win 8191, length 0
+15:34:49.213335 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148533, win 8190, length 0
+15:34:49.260390 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148673, win 8189, length 0
+15:34:49.307189 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148813, win 8189, length 0
+15:34:49.354159 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 148953, win 8188, length 0
+15:34:49.401049 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149093, win 8193, length 0
+15:34:49.447981 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149233, win 8193, length 0
+15:34:49.495047 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149373, win 8192, length 0
+15:34:49.541605 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149513, win 8192, length 0
+15:34:49.588170 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149653, win 8191, length 0
+15:34:49.635330 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149793, win 8191, length 0
+15:34:49.682139 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 149933, win 8190, length 0
+15:34:49.728962 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 150073, win 8189, length 0
+15:34:49.775993 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [.], ack 150213, win 8189, length 0
+15:34:49.784500 IP 198.96.85.104.51087 > comp3104kwm.ssh: Flags [P.], seq 140:176, ack 150353, win 8188, length 36
+^C
+1065 packets captured
+1065 packets received by filter
+0 packets dropped by kernel
