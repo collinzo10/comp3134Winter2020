@@ -1,0 +1,7 @@
+1. No result as expected. user Ben has active value of 0, so no result
+2. No result as expected. same as above. URL parameter changed to Ben’--+
+3. No result as expected. same as above. URL parameter changed to Ben’+or+1%3D1
+
+1. No result as expected. user Ben has active value of 0, so no result
+2. No result as expected. same as above. URL parameter changed to Ben’--+
+3. No result as expected. same as above. URL parameter changed to Ben’+or+1%3D1
