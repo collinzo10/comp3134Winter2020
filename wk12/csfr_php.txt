@@ -1,0 +1,12 @@
+
+<html>
+<body>
+<form method="post" action="/csfr.php">
+Username: <input type="text" name="user">
+Password: <input type="password" name="pass">
+<button type="submit">Submit</button>
+</form>
+   <div id="splash">
+     	<p> invalid info</p>
+</body>
+</html>
